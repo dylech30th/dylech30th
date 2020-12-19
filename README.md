@@ -1,4 +1,4 @@
-### It's Dylech30th here! Thank you for visiting my Github page! 👋
+### Dylech30th here presenting you all about myself! Thank you for visiting my Github profile! 👋
 <div align="center">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats"></p>
 </div>
@@ -59,7 +59,9 @@
     <img src="https://img.shields.io/badge/-C++-F9BF45?logo=c%2B%2B&style=flat-square">
     <img src="https://img.shields.io/badge/-C-gray?logo=c&style=flat-square">
   </p>
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylech30th&layout=compact&theme=dracula">
+  </p>
 Starting with a Java programmer, but nowadays I'm more inclined to consider myself as a Java/Kotlin/C# programmer for these are my most familiar languages! I am experienced in writing desktop applications, but web apps and microservices are unskilled, **while I'm a bit poor on writting productive&clear codes**; so suggestions are welcome! If you want to get closer to me, just leave a comment on my <a href="https://sora.ink">blog</a> or contact me throught those aforementioned methods
 
 <!--
