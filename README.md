@@ -21,7 +21,7 @@
 
 #### 🤠 A brief introduction to myself:
 
-🏫 I'm a senior high student who is
+🏫 I'm a student who is
 
 ❤️‍🔥 passionate on:
 * 🖥️ Computer Science
