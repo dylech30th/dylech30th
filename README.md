@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/-C++-F9BF45?logo=c%2B%2B&style=flat-square">
     <img src="https://img.shields.io/badge/-C-gray?logo=c&style=flat-square">
   </p>
+  
 Starting with a Java programmer, but nowadays I'm more inclined to consider myself as a Java/Kotlin/C# programmer for these are my most familiar languages! I am experienced in writting desktop applications; web apps and services are unskilled, **and a bit poor on writting productive codes**, suggestions are welcomed! and if you want to get closer to me, just leave a comment on my <a href="https://sora.ink">blog</a> or contact me throught those aforementioned methods
 
 <!--
