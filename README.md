@@ -37,7 +37,7 @@
 
 #### 🤔 What am I doing now?
 * 🔭 I'm currently working on [**Pixeval**](https://github.com/dylech30th/Pixeval)'s reforge edition, which will abandon WPF and use [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/) as its UI framework! Which will introduce my favorite [Fluent Design](https://www.microsoft.com/design/fluent/#/)!
-* 🌱 I'm learning to be a *Minecraft Modder*! thought I've never written any mods before, and I haven't even read Minecraft's source code yet
+* 🌱 I'm learning to be a *Minecraft Modder*! though I've never written any mods before, and I haven't even read Minecraft's source code yet
 * 📚 Preparing for the college entrance examination! that's the most important thing over these years
 * 🤒 Seasonal asthma! trying my best to cure myself!
 
