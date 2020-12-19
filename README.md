@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square">
     </a>
     <a href="https://twitter.com/December0730">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?tyle=flat-square">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square">
     </a>
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=7ZOYvFDzApWKE71whQ5dx01Mq4dvggrj&jump_from=webapi">
       <img src="https://img.shields.io/badge/-QQ-EB1923?logo=Tencent%20QQ&style=flat-square">
