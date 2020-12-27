@@ -36,7 +36,7 @@
 😖 while I keep working on a few kinds of programming language and trying to get some improvements on code quality, I'm still a bitter hand on it, feel free to explore my projects, and try not to laugh when enjoying my "masterpieces"! 🤣
 
 #### 🤔 What am I doing now?
-* 🔭 I'm currently working on [**Pixeval**](https://github.com/dylech30th/Pixeval)'s reforge edition, which will abandon WPF and use [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/) as its UI framework! Which will introduce my favorite [Fluent Design](https://www.microsoft.com/design/fluent/#/)!
+* 🔭 I'm currently working on [**Pixeval**](https://github.com/dylech30th/Pixeval)'s reforge edition, which will use [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/) and my favorite [Fluent Design](https://www.microsoft.com/design/fluent/#/) as its UI framework!
 * 🌱 I'm learning to be a *Minecraft Modder*! though I've never written any mods before, and I haven't even read Minecraft's source code yet
 * 📚 Preparing for the examination! that's the most important thing over these years
 * 🤒 Seasonal asthma! trying my best to cure myself!
