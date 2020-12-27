@@ -65,6 +65,7 @@
   
 Starting with a Java programmer, but nowadays I'm more inclined to consider myself as a Java/Kotlin/C# programmer for these are my most familiar languages! I am experienced in writing desktop applications, but web apps and microservices are unskilled, **while I'm a bit poor on writting productive&clear codes**; so suggestions are welcome! If you want to get closer to me, just leave a comment on my <a href="https://sora.ink">blog</a> or contact me throught those aforementioned methods
 
+<p align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></p>
 <!--
 **dylech30th/dylech30th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
