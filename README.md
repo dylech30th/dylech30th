@@ -29,6 +29,11 @@
 * 💡  Modeling Computation
 * 🔀 Theory of Compilation 
 
+while I'm trying to walk into some new areas (not ever started yet though😝) such as: 
+
+* 🍽️ Mathematical logic and Set theory
+* 📖 Philosophy
+
 💪 Currently, I am learning Discrete Mathematics and Theory of Compilation. Further plan is start learning Computer Architecture and CPU Architecture.
  
 📝 I often share my experiences&opinions and notes on my blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment, I'll treat it as the most valuable thing among the world 💖
