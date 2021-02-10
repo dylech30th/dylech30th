@@ -68,7 +68,7 @@ while I'm trying to walk into some new areas (not ever started yet though😝) s
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylech30th&layout=compact&theme=dracula">
   </p>
   
-Starting with a Java programmer, but nowadays I'm more inclined to consider myself as a Java/Kotlin/C# programmer for these are my most familiar languages! I am experienced in writing desktop applications, but web apps and microservices are unskilled, **while I'm a bit poor on writting productive&clear codes**; so suggestions are welcome! If you want to get closer to me, just leave a comment on my <a href="https://sora.ink">blog</a> or contact me throught those aforementioned methods
+Starting with a Java programmer, but nowadays I'm more inclined to consider myself as a Kotlin/C# programmer for these are my most familiar languages! To be honest, I am not expert in programming for I'm actually obsess on something that is more theoratical like the the correspondence between programming language and its mathematical model(actually I'm just a starter of this domain, too). So suggestions are welcome! If you want to get closer to me, just leave a comment on my <a href="https://sora.ink">blog</a> or contact me throught those aforementioned methods
 
 <p align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></p>
 <!--
