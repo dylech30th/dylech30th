@@ -27,7 +27,7 @@
 * 🖥️ Computer Science
 * ➕ Discrete Mathematics
 * 💡  Modeling Computation
-* 🔀 Theory of Compilation 
+* 🔀 Compiler Theory
 
 while I'm trying to walk into some new areas (not ever started yet though😝) such as: 
 
