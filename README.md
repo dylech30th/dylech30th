@@ -21,6 +21,8 @@
 
 #### 🤠 A brief introduction to myself:
 
+🗺️ Location: China
+
 🏫 I'm a student who is
 
 ❤️‍🔥 passionate on:
