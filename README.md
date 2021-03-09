@@ -21,7 +21,7 @@
 
 #### 🤠 A brief introduction to myself:
 
-🗺️ Location: China
+🗺️ Location: China🇨🇳
 
 🏫 I'm a student who is
 
