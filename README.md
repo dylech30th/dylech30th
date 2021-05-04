@@ -21,7 +21,7 @@
 
 #### 🤠 A brief introduction to myself:
 
-## I'm a extreme paranoia and highly efficient on finding ways to enrage and distrust myself, stay away from me for your own good, no offense and no kidding
+## I'm a extreme paranoia with sociopathic tendencies and highly efficient on finding ways to enrage and distrust myself, stay away from a piece of crap like me for your own good, no offense and no kidding
 
 🗺️ Location: China🇨🇳
 
