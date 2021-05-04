@@ -33,7 +33,7 @@
 
 while I'm trying to walk into some new areas (not ever started yet though😝) such as: 
 
-* 🍽️ Mathematical logic and Set theory
+* 🍽️ Mathematical logic
 * 📖 Philosophy
 
 💪 Currently, I am learning Discrete Mathematics and Theory of Compilation. Further plan is start learning Computer Architecture and CPU Architecture.
