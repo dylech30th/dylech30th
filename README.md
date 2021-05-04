@@ -21,6 +21,8 @@
 
 #### 🤠 A brief introduction to myself:
 
+**I'm a extreme paranoia and highly efficient on finding ways to enrage and distrust myself, stay away from me for your own good, no offense and no kidding**
+
 🗺️ Location: China🇨🇳
 
 🏫 I'm a student who is
