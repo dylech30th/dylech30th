@@ -2,22 +2,6 @@
 <div align="center">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats"></p>
 </div>
-<div>
-  <p align="center">
-    <a href="https://space.bilibili.com/21577236">
-      <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square">
-    </a>
-    <a href="https://twitter.com/December0730">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square">
-    </a>
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=7ZOYvFDzApWKE71whQ5dx01Mq4dvggrj&jump_from=webapi">
-      <img src="https://img.shields.io/badge/-QQ-EB1923?logo=Tencent%20QQ&style=flat-square">
-    </a>
-    <a href="mailto:decem0730@hotmail.com">
-      <img src="https://img.shields.io/badge/-Hotmail-D14836?style=flat-square">
-    </a>
-  </p>
-</div>
  
 A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
 
