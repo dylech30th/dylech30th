@@ -1,4 +1,4 @@
-### Hi, I'm Dylech30th, call me "dc" 👋
+### I'm Dylech30th, call me "dc"
 <div align="center">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats"></p>
 </div>
