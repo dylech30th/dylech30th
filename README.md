@@ -19,7 +19,7 @@
   </p>
 </div>
  
-A noob often share his meaningless notes and notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
+A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
 
 Being capable of using a wide variety of programming languages, yet none of which is proficient, you really should try to convince him to focus on the senior high school courses
 
