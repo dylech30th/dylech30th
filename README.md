@@ -10,16 +10,19 @@ A noob often share his meaningless notes on his blog: [dylech30th's blog](https:
 Being capable of using a wide variety of programming languages, yet none of which is proficient. Awful naming conventions, highly coupled project structures, mixed responsibilities and pointless inheritance hierarchies, he is a man who adheres to the [State-of-art-Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 #### Programming Techniques
  <div>
-  <p align="left">
+  <div style="float:left;">
+   <p align="center">
     <img src="https://img.shields.io/badge/-Java-red?logo=java&style=flat-square">
     <img src="https://img.shields.io/badge/-C%23-blueviolet?logo=c%20sharp&style=flat-square">
     <img src="https://img.shields.io/badge/-Kotlin-DB4D6D?logo=kotlin&style=flat-square">
     <img src="https://img.shields.io/badge/-C++-F9BF45?logo=c%2B%2B&style=flat-square">
     <img src="https://img.shields.io/badge/-C-gray?logo=c&style=flat-square">
   </p>
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylech30th&layout=compact&theme=dracula">
   </p>
+  </div>
+ <img style="float:left;" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
  </div>
 
 <!--
