@@ -9,6 +9,7 @@ A noob often share his meaningless notes on his blog: [dylech30th's blog](https:
 
 Being capable of using a wide variety of programming languages, yet none of which is proficient. Awful naming conventions, highly coupled project structures, mixed responsibilities and pointless inheritance hierarchies, he is a man who adheres to the [State-of-art-Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 #### Programming Techniques
+ <div align="left">
   <p align="center">
     <img src="https://img.shields.io/badge/-Java-red?logo=java&style=flat-square">
     <img src="https://img.shields.io/badge/-C%23-blueviolet?logo=c%20sharp&style=flat-square">
@@ -19,9 +20,10 @@ Being capable of using a wide variety of programming languages, yet none of whic
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylech30th&layout=compact&theme=dracula">
   </p>
+ </div>
 
 
-<p align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></p>
+<img right="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></p>
 <!--
 **dylech30th/dylech30th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
