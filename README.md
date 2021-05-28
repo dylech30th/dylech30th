@@ -5,7 +5,9 @@
  
 A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804">
+</p>
 
 Being capable of using a wide variety of programming languages, yet none of which is proficient. Awful naming conventions, highly coupled project structures, mixed responsibilities, pointless inheritance hierarchies, he is a man who adheres to the [State-of-art-Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 #### Programming Techniques
