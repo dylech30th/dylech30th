@@ -1,7 +1,5 @@
 ### I'm Dylech30th, call me "dc"
-<div align="right">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats"></p>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats">
  
 A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
 
