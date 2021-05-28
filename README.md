@@ -1,5 +1,6 @@
 ### I'm Dylech30th, call me "dc"
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats">
+<img right="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
  
 A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
 
@@ -20,7 +21,6 @@ Being capable of using a wide variety of programming languages, yet none of whic
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylech30th&layout=compact&theme=dracula">
   </p>
-  <img right="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></p>
  </div>
 
 <!--
