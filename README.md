@@ -1,4 +1,6 @@
 ### I'm Dylech30th, call me "dc"
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dylech30th&fontSize=90&desc=Keep%20things%20simple&descSize=25&descAlignY=55&fontAlignY=40&descAlign=60">
+
 <img align="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
  
 A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
