@@ -1,5 +1,5 @@
 ### I'm Dylech30th, call me "dc"
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dylech30th&fontSize=90&desc=Keep%20things%20simple&descSize=25&descAlignY=55&fontAlignY=40&descAlign=60">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dylech30th&fontSize=90&desc=Only%20paranoias%20can%20survive&descSize=25&descAlignY=55&fontAlignY=40&descAlign=60">
 
 <img align="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
  
