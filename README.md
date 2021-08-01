@@ -1,15 +1,6 @@
 ### I'm Dylech30th, call me "dc"
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dylech30th&fontSize=90&desc=Only%20paranoias%20can%20survive&descSize=25&descAlignY=55&fontAlignY=40&descAlign=60">
-
 <img align="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
- 
-A noob often share his meaningless notes on his blog: [dylech30th's blog](https://sora.ink), welcome to pay a visit and leave a comment
-
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804">
-</p>
-
-Being capable of using a wide variety of programming languages, yet none of which is proficient. Awful naming conventions, highly coupled project structures, mixed responsibilities and pointless inheritance hierarchies, he is a man who adheres to the [State-of-the-art-Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+"He's a fool despite the achievements he made"
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats">
 <p align="center">
