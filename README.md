@@ -1,6 +1,6 @@
 ### I'm Dylech30th, call me "dc"
 <img align="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
-"He's a fool despite the achievements he made"
+"He is not deceived who knows himself to be deceived"
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&theme=dracula" alt="dylech30th github stats">
 <p align="center">
