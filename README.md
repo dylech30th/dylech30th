@@ -1,4 +1,4 @@
-### I'm Dylech30th, call me "dc"
+### I'm Dylech30th
 <img align="right" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th">
 "He is not deceived who knows himself to be deceived"
 <!--
