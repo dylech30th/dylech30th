@@ -9,7 +9,7 @@ val dc = person {
     interests(Comparison.ORDERED) { +TheoreticalComputerScience; +Bangumi; +Programming }
   }
   progammingSkills(Comparison.UNORDERED) {
-      +Kotlin; +CSharp; +Scala; +Ocaml; +Cplusplus; +Java
+      +Kotlin; +CSharp; +Scala; +OCaml; +Cplusplus; +Java
   }
   social {
     website = Url("https://sora.ink")
