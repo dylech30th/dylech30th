@@ -1,15 +1,63 @@
-### I'm Dylech30th, it's been a pleasure to meet you
+### I'm Dylech30th
 
-我是Dylech30th，简短起见，你可以叫我*dc* | I'm Dylech30th, you can call me *dc* for brevity
+```kotlin
+val dc = person {
+  info {
+    name = "Dylech30th"
+    job = Student
+    pronouns("He" `or` "His")
+    interests(Comparison.ORDERED) { +TheoreticalComputerScience; +Bangumi; +Programming }
+  }
+  progammingSkills(Comparison.UNORDERED) {
+      +Kotlin; +CSharp; +Scala; +Ocaml; +Cplusplus; +Java
+  }
+  social {
+    website = Url("https://sora.ink")
+    bilibili = Uri("https://space.bilibili.com/21577236")
+    qqGroup = 815791942
+    twitter = "@dylech30th"
+  }
+}
 
-<!-- <div align="center"><h2>「Relationships will only lower my integrity as a human」 —— Araragi Koyomi</h2></div>
+@JvmStatic
+fun main() {
+  dc.greet()
+}
+```
 
-* Despite of the Chuunibyou-esque quote above, I'm still willing to make friends, however, I prefer not to introduce myself since those who have such intentions will figure it out regardless of whether I'll do this comprehensively or not
+![GitHub Org's stars](https://img.shields.io/github/stars/Pixeval?label=Pixeval%20Stargazers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/dylech30th?style=social)
 
-* I'm a beginner (unambiguously, beginner stands for any definition of "beginner" you can find in a dictionary instead of some hypocritic humble non-sense words of which I mostly hated) at Theoretical Computer Science, particularly interest in Computablity/Computational Complexity Theory, Compiler Construction, and a rudimentary knowledge of Type Theory.
+I'm Dylech30th, a student who is passionate on theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact or want to make friends with me:).
 
-* I prefer fast, handy, and reliable productivity tools that only require occasional tuning, for example, VS[ Code]\(bracket for "optionality"\), ReSharper and Windows Terminal.
+* ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Rust`, `TypeScript`, and ML dialects like `OCaml`/`F#`.
+* 📖 I love reading books, currently I'm reading `Types and Programming Languages` by Benjamin C. Pierce.
+* 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
+* 🔨 From a practical perspective, I love *Compiler Construction*, *Compiler Optimization Techniques*, and *Virtual Machine*.
+* 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
+* 💖 I have found the person I want to live with
 
-* All these are bullshits, usotsuki, forget'em.-->
+#### The Languages I'm Currently Using
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code></a>
 
-<div align="center"><img align="center" src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></div>
+#### The Languages I'm Willing to Learn...
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png"></code></a>
+<a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code></a>
+
+#### My Project
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dylech30th&repo=Pixeval&show_owner=true">
+
+I'm the core developer of [Pixeval](https://github.com/Pixeval/Pixeval), a third-party Pixiv client running on Windows and built atop of .NET 6 and Win UI3, it tooks most of my free times, give a [star](https://github.com/Pixeval/Pixeval/stargazers) if you are interested in it, and you can [sponsor me](https://afdian.net/@dylech30th) if you like it
+
+#### My Achievement
+<blockquote><div align="center"><i>本物?偽物？</i></div></blockquote>
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" >|
+|----------|----------|
+|<div align="center"><img src="https://github-profile-trophy-ecru.vercel.app/?username=dylech30th&row=2&column=4&margin-w=15&margin-h=15" alt="dylech30th"></div>|<div align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></div>|
