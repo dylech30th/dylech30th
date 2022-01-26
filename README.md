@@ -40,7 +40,7 @@ I'm Dylech30th, a student who is passionate on theoretical computer science, you
 * 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
 * 💖 I have found the person I want to live with
 
-#### ⌨️ The Languages I'm Currently Using
+### ⌨️ The Languages I'm Currently Using
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code></a>
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code></a>
@@ -49,18 +49,20 @@ I'm Dylech30th, a student who is passionate on theoretical computer science, you
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code></a>
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code></a>
 
-#### 👨‍💻 The Languages I'm Willing to Learn...
+### 👨‍💻 The Languages I'm Willing to Learn...
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png"></code></a>
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code></a>
 
-#### 🚧 My Project
+### 🚧 My Project
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylech30th&repo=Pixeval&show_owner=true">
 
 I'm the core developer of [Pixeval](https://github.com/Pixeval/Pixeval), a third-party Pixiv client running on Windows and built atop of .NET 6 and WinUI 3, it tooks most of my free times, give a [star](https://github.com/Pixeval/Pixeval/stargazers) if you are interested in it, and you can [sponsor me](https://afdian.net/@dylech30th) if you like it
 
-#### 📊 My Achievement
+### 📊 My Achievement
 <blockquote><div align="center"><i>本物?偽物？</i></div></blockquote>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=dylech30th&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" >|
 |----------|----------|
-||<div align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></div>|
+
+### 👀 Visitors
+<div align="center"><img src="https://count.getloli.com/get/@dylech30th?theme=rule34" alt="dylech30th"></div>
