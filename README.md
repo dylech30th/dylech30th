@@ -29,7 +29,7 @@ fun main() {
 ![GitHub followers](https://img.shields.io/github/followers/dylech30th?style=social)
 
 ## 🏆 GitHub Profile Trophy
-<div align="center"><img src="https://github-profile-trophy-ecru.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="dylech30th"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="dylech30th"></div>
 
 I'm Dylech30th, a student who is passionate on theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact or want to make friends with me:).
 
