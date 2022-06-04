@@ -1,3 +1,3 @@
-## I'm Dylech30th ❤ Open Source
+## I'm Dylech30th
 
 Hello there.
