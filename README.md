@@ -38,7 +38,6 @@ I'm Dylech30th, a student who is passionate on theoretical computer science, you
 * 🔨 From a practical perspective, I love *Compiler Construction*, *Compiler Optimization Techniques*, and *Virtual Machine*.
 * 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
 * 💖 I have found the person I want to live with
-* I'm an Overwatch player and my favorite teams are <span style="color:#ce2732">Shanghai Dragons</span> and <span style="color:#0072c9">Dallas Fuel</span>
 
 ### ⌨️ The Languages I'm Currently Using
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
