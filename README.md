@@ -14,7 +14,6 @@ val dc = person {
   social {
     website = Url("https://sora.ink")
     bilibili = Uri("https://space.bilibili.com/21577236")
-    qqGroup = 815791942
     twitter = "@dylech30th"
   }
 }
