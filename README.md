@@ -53,7 +53,7 @@ I'm Dylech30th, a student who is passionate on theoretical computer science, you
 ### 🚧 My Project
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylech30th&repo=Pixeval&show_owner=true">
 
-I'm the core developer of [Pixeval](https://github.com/Pixeval/Pixeval), a third-party Pixiv client running on Windows and built atop of .NET 6 and WinUI 3, it tooks most of my free times, give a [star](https://github.com/Pixeval/Pixeval/stargazers) if you are interested in it, and you can [sponsor me](https://afdian.net/@dylech30th) if you like it
+I'm the core developer of [Pixeval](https://github.com/Pixeval/Pixeval), a third-party Pixiv client running on Windows and built atop of .NET 6 and WinUI 3, it took most of my free time, give a [star](https://github.com/Pixeval/Pixeval/stargazers) if you are interested in it, and you can [sponsor me](https://afdian.net/@dylech30th) if you like it
 
 ### 📊 My Achievement
 <blockquote><div align="center"><i>本物?偽物？</i></div></blockquote>
