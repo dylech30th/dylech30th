@@ -4,7 +4,7 @@
 val dc = person {
   info {
     name = "Dylech30th"
-    job = Student and SoftwareEngineer
+    job = Student
     pronouns("He" `or` "His")
     interests(Comparison.ORDERED) { +TheoreticalComputerScience; +Bangumi; +Programming }
   }
