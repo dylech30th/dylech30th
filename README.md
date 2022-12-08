@@ -30,10 +30,10 @@ fun main() {
 
 I'm Dylech30th, a student who is passionate on theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact or want to make friends with me:).
 
-* ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Rust`, `Kotlin`, and ML dialects like `OCaml`/`F#`.
-* 📖 I love reading books, currently I'm reading `Advanced Topics in Types and Programming Languages` by Benjamin C. Pierce.
+* ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Haskell`, and ML dialects like `OCaml`/`F#`. I'd like to cast criticisms on  languages that are too conservative to explore practical features like `Java` and languages that are tend to mix too much concepts from difference realms but don't have a clue about how to arrange them in a reasonable way like `C++`.
+* 📖 I love reading books, currently I'm reading *Interactive Theorem Proving and Program Development: Coq’Art: The Calculus of Inductive Constructions* by Pierre Castéran and Yves Bertot and *Intuitionistic Type Theory* by Per Martin-Löf.
 * 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
-* 🔨 From a practical perspective, I love *Compiler Construction*, *Compiler Optimization Techniques*, and *Virtual Machine*.
+* 🔨 From a practical perspective, I love *Compiler Construction*, and *Virtual Machine*.
 * 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
 * 💖 I have found the person I want to live with
 
