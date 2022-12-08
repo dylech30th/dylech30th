@@ -32,7 +32,7 @@ I'm Dylech30th, a student who is passionate on theoretical computer science, you
 
 * ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Haskell`, and ML dialects like `OCaml`/`F#`. I'd like to cast criticisms on  languages that are too conservative to explore practical features like `Java` and languages that are tend to mix too much concepts from difference realms but don't have a clue about how to arrange them in a reasonable way like `C++`.
 * 🪓 I believe there are *Good Designs* and *Bad Designs*, which makes me do not agree with the slogan "All languages are created equal" and "There is no good or bad between languages, only fit or not".
-* 📖 I love reading books, currently I'm reading *Interactive Theorem Proving and Program Development: Coq’Art: The Calculus of Inductive Constructions* by Pierre Castéran and Yves Bertot and *Intuitionistic Type Theory* by Per Martin-Löf.
+* 📖 I love reading books, currently I'm reading *Interactive Theorem Proving and Program Development: Coq’Art: The Calculus of Inductive Constructions* by Pierre Castéran & Yves Bertot, and *Intuitionistic Type Theory* by Per Martin-Löf.
 * 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
 * 🔨 From a practical perspective, I love *Compiler Construction*, and *Virtual Machine*.
 * 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
