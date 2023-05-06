@@ -7,7 +7,7 @@ val dc = person {
     job = listOf(Student, SoftwareEngineer(ClientEngineer.of(Android, iOS, Windows, MacOS)))
     languages = listOf(English, Chinese, French, Latin.apply { +isLearning })
     pronouns("He" `or` "His")
-    interests(Comparison.ORDERED) { +TheoreticalComputerScience; +Bangumi; +Programming }
+    interests(Comparison.ORDERED) { +MathematicalLogic(Computability, Logic, TypeTheory); +Linguistique; +AnalyticPhilosophy; +Bangumi; +Programming; +PLT }
   }
   progammingSkills(Comparison.UNORDERED) {
       +Kotlin; +CSharp; +Scala; +OCaml; +FSharp; +Java; +Idris
