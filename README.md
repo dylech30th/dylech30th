@@ -4,12 +4,13 @@
 val dc = person {
   info {
     name = "Dylech30th"
-    job = Student
+    job = listOf(Student, SoftwareEngineer(ClientEngineer.of(Android, iOS, Windows, MacOS)))
+    languages = listOf(English, Chinese, French, Latin.apply { +isLearning })
     pronouns("He" `or` "His")
     interests(Comparison.ORDERED) { +TheoreticalComputerScience; +Bangumi; +Programming }
   }
   progammingSkills(Comparison.UNORDERED) {
-      +Kotlin; +CSharp; +Scala; +OCaml; +Cplusplus; +Java
+      +Kotlin; +CSharp; +Scala; +OCaml; +FSharp; +Java; +Idris
   }
   social {
     website = Url("https://sora.ink")
