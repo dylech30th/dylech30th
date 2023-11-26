@@ -7,7 +7,7 @@ val dc = person {
     job = listOf(Student, SoftwareEngineer(ClientEngineer.of(Android, iOS, Windows, MacOS)))
     languages = listOf(English, Chinese, French, Latin.apply { +isLearning })
     pronouns("He" `or` "His")
-    interests(Comparison.ORDERED) { +MathematicalLogic(Computability, Logic, TypeTheory); +Linguistique; +AnalyticPhilosophy; +Bangumi; +Programming; +PLT }
+    interests(Comparison.ORDERED) { +TypeTheory; +CategoricalSemantics; +Bangumi; +Programming; }
   }
   progammingSkills(Comparison.UNORDERED) {
       +Kotlin; +CSharp; +Scala; +OCaml; +FSharp; +Java; +Idris
@@ -29,14 +29,14 @@ fun main() {
 ## 🏆 GitHub Profile Trophy
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="dylech30th"></div>
 
-I'm Dylech30th, a student who is passionate on theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact or want to make friends with me:).
+I'm Dylech30th, a student who is passionate about theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my notes and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact me or want to make friends with me:).
 
-* ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Haskell`, and ML dialects like `OCaml`/`F#`. I'd like to cast criticisms on  languages that are too conservative to explore practical features like `Java` and languages that tend to mix too many concepts from different realms but don't have a clue about how to arrange them in a reasonable way like `C++`.
+* ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Haskell`, and ML dialects like `OCaml`/`F#`. I'd like to cast criticisms on languages that are too conservative to explore practical features like `Java` and languages that tend to mix too many concepts from different realms but don't have a clue about how to arrange them in a reasonable way like `C++`.
 * 🪓 I believe there are *Good Designs* and *Bad Designs*, which makes me not agree with the slogan "All languages are created equal" and "There is no good or bad between languages, only fit or not".
-* 📖 I love reading books, currently I'm reading *Topology* by Munkres, and *Algebra_Chapter 0* by Paulo Aluffi.
-* 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Type Theory*.
+* 📖 I love reading books, currently I'm reading *Algebraic Topology* by Tammo Tom Dieck.
+* 📜 From a theoretical perspective, I love *Mathematical Logic*, *Type Theory*, especially the connection between logic, category, and topology, despite the fact that I just started reading them.
 * 🔨 From a practical perspective, I love *Compiler Construction*, and *Virtual Machine*.
-* 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
+* 🤓 Despite being a starter, I'm still putting all my efforts into making myself better
 * 💖 I have found the person I want to live with
 
 ### ⌨️ The Languages I'm Currently Using
