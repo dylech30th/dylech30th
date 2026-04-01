@@ -29,15 +29,13 @@ fun main() {
 ## 🏆 GitHub Profile Trophy
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="dylech30th"></div>
 
-I'm Dylech30th, a student who is passionate about theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my notes and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact me or want to make friends with me:).
+I'm Dylech30th, a student majoring applied mathematics who is passionate about theoretical computer science, you can call me *dc* for brevity. I'm willing to make new friends and often share my notes and essays at my [blog](https://sora.ink), welcome to pay a visit if you want to contact me or want to make friends with me:).
 
 * ⌨️ I love modern languages with exquisite design, such as `C#`, `Scala`, `Haskell`, and ML dialects like `OCaml`/`F#`. I'd like to cast criticisms on languages that are too conservative to explore practical features like `Java` and languages that tend to mix too many concepts from different realms but don't have a clue about how to arrange them in a reasonable way like `C++`.
 * 🪓 I believe there are *Good Designs* and *Bad Designs*, which makes me not agree with the slogan "All languages are created equal" and "There is no good or bad between languages, only fit or not".
-* 📖 I love reading books, currently I'm reading *Algebraic Topology* by Tammo Tom Dieck.
-* 📜 From a theoretical perspective, I love *Mathematical Logic*, *Type Theory*, especially the connection between logic, category, and topology, despite the fact that I just started reading them.
+* 📖 I love reading books, currently I'm reading the papers about _Algebraic Effects_ and _Lawvere Theories_.
+* 📜 From a theoretical perspective, I love to explore the connections between math, CS, and linguistics from a high perspective, which means that: We make things categorical and study them structurally.
 * 🔨 From a practical perspective, I love *Compiler Construction*, and *Virtual Machine*.
-* 🤓 Despite being a starter, I'm still putting all my efforts into making myself better
-* 💖 I have found the person I want to live with
 
 ### ⌨️ The Languages I'm Currently Using
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
